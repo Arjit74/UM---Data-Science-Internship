@@ -99,7 +99,7 @@ To identify the key factors influencing Uber trip counts and to build predictive
 ## 📬 Contact
 
 **Nikita Gupta**  
-📧 [Email](mailto:nikitagpt06@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nikita-gupta-790a54284/)  
-💻 [GitHub](https://github.com/Nikita-Gupta-19)
+📧 [Email](sharmaarjit886@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arjit-sharma74)  
+💻 [GitHub](https://github.com/Arjit74)
 
