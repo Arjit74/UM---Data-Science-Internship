@@ -98,7 +98,7 @@ To identify the key factors influencing Uber trip counts and to build predictive
 
 ## 📬 Contact
 
-**Nikita Gupta**  
+**Arjit Sharma**  
 📧 [Email](sharmaarjit886@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/arjit-sharma74)  
 💻 [GitHub](https://github.com/Arjit74)
